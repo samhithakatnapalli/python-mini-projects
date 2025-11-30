@@ -5,6 +5,7 @@ Includes logic, conditionals, loops, functions, and randomization.
 
 ## Projects
 - Password Generator
+- Pizza Order Generator
 - Rock Paper Scissors
 - Treasure Island Game
 - Number Guessing Game
