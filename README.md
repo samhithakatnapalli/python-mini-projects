@@ -8,6 +8,5 @@ Includes logic, conditionals, loops, functions, and randomization.
 - Pizza Order Generator
 - Rock Paper Scissors
 - Treasure Island Game
-- Number Guessing Game
 - Hangman
 
