@@ -114,3 +114,4 @@ while not game_over:
     if lives == 0:
         game_over = True
         print(" --- GAME OVER --- ")
+        print(f" - The correct word was: '{chosen_word}' - ")
