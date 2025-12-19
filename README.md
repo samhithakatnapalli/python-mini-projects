@@ -6,6 +6,7 @@ Includes logic, conditionals, loops, functions, and randomization.
 ## Projects
 - Caeser Cipher
 - Hangman
+- Highest Bidder
 - Password Generator
 - Pizza Order Generator
 - Rock Paper Scissors
