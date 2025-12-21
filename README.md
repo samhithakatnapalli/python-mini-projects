@@ -5,6 +5,7 @@ Includes logic, conditionals, loops, functions, and randomization.
 
 ## Projects
 - Caeser Cipher
+- Calculator
 - Hangman
 - Highest Bidder
 - Password Generator
