@@ -4,6 +4,7 @@ A collection of small Python programs I built while learning fundamentals.
 Includes logic, conditionals, loops, functions, and randomization.
 
 ## Projects
+- Black Jack
 - Caeser Cipher
 - Calculator
 - Hangman
