@@ -9,6 +9,7 @@ Includes logic, conditionals, loops, functions, and randomization.
 - Calculator
 - Hangman
 - Highest Bidder
+- Number Guessing
 - Password Generator
 - Pizza Order Generator
 - Rock Paper Scissors
