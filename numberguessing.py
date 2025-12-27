@@ -9,18 +9,19 @@ def guessing():
         user_guess = int(input("Make a guess:"))
         if user_guess < comp_guess:
             chances -= 1
-            print("Too low, guess again.")
-
+            if chances == 0:
+                print("\nGame over, better luck next time!")
+            else:
+                print("Too low, guess again.")
         elif user_guess > comp_guess:
             chances -= 1
-            print("Too high, guess again.")
-
+            if chances == 0:
+                print("\nGame over, better luck next time!")
+            else:
+                print("Too high, guess again.")
         elif user_guess == comp_guess:
             print(f"You win! The correct answer is {user_guess}")
             break
-
-        if chances == 0:
-            print("\nGame over, better luck next time!")
 
 while True:
     print("\nWelcome to the number guessing game!")
@@ -47,4 +48,4 @@ while True:
         continue
     elif again == "no":
         print("See you next time!")
-        break
+        breakbreak
