@@ -8,6 +8,7 @@ Includes logic, conditionals, loops, functions, and randomization.
 - Caeser Cipher
 - Calculator
 - Hangman
+- Higher or Lower
 - Highest Bidder
 - Number Guessing
 - Password Generator
